@@ -1,0 +1,9 @@
+{
+  "name" : "Mario Animation",
+  "description" : "Mario Animation",
+  "launch_path" : "/index.html",
+  "developer": {
+    "name" : "Mozilla"
+  },
+  "default_locale" : "en"
+}
